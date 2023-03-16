@@ -1,0 +1,14 @@
+#title {
+    text-align: center;
+}
+
+#links {
+    text-align: center;
+    text-decoration: underline;
+}
+
+html {
+    background-color: blueviolet;
+    border: aqua;
+    border-radius: 100%;
+}
